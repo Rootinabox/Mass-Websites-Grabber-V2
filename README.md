@@ -28,7 +28,7 @@ If you want to manually install the required packages using your preferrec packa
 ```bash
 apt install git python2-pip
 git clone https://github.com/rootinabox/Mass-Websites-Grabber-V2
-cd Mass-Websites-Grabber 
+cd Mass-Websites-Grabber-V2 
 pip install colorama
 pip install requests
 python privategrabber.py
@@ -39,6 +39,7 @@ install python 2.7.14 ( add python to path )
 pip install requests
 pip install colorama
 pip install urllib2
+cd Mass-Websites-Grabber-V2
 python privategrabberV2.py
 ```
 <img src="banner.png">
