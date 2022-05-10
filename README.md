@@ -38,7 +38,7 @@ python privategrabber.py
 install python 2.7.14 ( add python to path )
 pip install requests
 pip install colorama
-pip install urllib2
+pip install urllib
 cd Mass-Websites-Grabber-V2
 python privategrabberV2.py
 ```
